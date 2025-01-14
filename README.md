@@ -35,7 +35,3 @@ The Metro Stations and Crowd Analysis System (MSCAS) is designed to monitor and 
 - **Sensor Data:** Data from crowd density sensors.
 - **Peak Hours Graph Links:** Links to peak hour graph images stored in AWS S3.
 
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/msc-analysis.git
